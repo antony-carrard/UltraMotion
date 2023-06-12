@@ -12,4 +12,4 @@ During this project, two mains segmentations techniques are researched. One usin
 
  ## Current state
 
-This project is currently in development, and its implementation is not guaranteed to work properly yet.
+This project is currently finished, and will be explored in greater depth during the master's thesis on the next stage of the project.
